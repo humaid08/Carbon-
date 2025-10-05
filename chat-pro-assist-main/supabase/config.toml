@@ -1,0 +1,13 @@
+project_id = "kprydlijsjygdpuoylwj"
+
+[functions.chat]
+verify_jwt = false
+
+[functions.vapi-webhook]
+verify_jwt = false
+
+[functions.vapi-actions]
+verify_jwt = true
+
+[functions.create-phone-number]
+verify_jwt = true
