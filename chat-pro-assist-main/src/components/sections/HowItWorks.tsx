@@ -46,10 +46,9 @@ export const HowItWorks = () => {
             How It Works
           </Badge>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            <span className="bg-gradient-primary bg-clip-text text-transparent">
-              3 Simple Steps
-            </span>{' '}
-            Steps to Transform Your Business
+            3 Simple Steps
+            <br />
+            to Transform Your Business
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Our AI assistant seamlessly integrates into your existing workflow, 
